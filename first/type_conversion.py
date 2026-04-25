@@ -1,4 +1,3 @@
-'''
 x = input('1. sayı:')
 y = input('2. sayı:')
 
@@ -8,9 +7,7 @@ print(type(y))
 sum = int(x) + int(y)
 
 print(sum)
-'''
 
-'''
 x = 5               #int
 y = 2.5             #float
 name = 'Teto'       #string
@@ -26,8 +23,7 @@ print(type(x))
 
 result = x
 print(result)
-'''
-'''
+
 product_str = "Mechanichal Keyboard"
 price_str = "1250.50"
 piece_str = "2"
@@ -43,4 +39,3 @@ remaining_balance = user_balance - total_price
 
 print("2 adet Mekanik Klavye satın alındı. Kalan bakiyeniz: ", remaining_balance, " TL")
 
-'''
